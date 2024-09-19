@@ -1,0 +1,21 @@
+th,td {
+    padding: 20px;
+}
+html{
+    background-color: rgb(255, 251, 0);
+}
+.table2{
+    margin: 30px 50px;
+}
+.table3{
+   margin: 20px 20px 100px
+}
+.table4{
+    margin:20px 10px 250px 35px
+}
+.table5{
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-bottom: 200px;
+    margin-right: 255;
+}
